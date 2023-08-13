@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cyber Security
 - 🌱 I’m currently studiying MBA and CyberSecurity. :)
 - 💞️ I’m looking to collaborate on building new projects.
-- 📫 You can reach me through e-mail and links in my profile.   
+- 📫 You can reach me through e-mail and links in my profile.
 
 <!---
 abdullahoncu/abdullahoncu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
